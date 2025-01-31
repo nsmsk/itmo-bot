@@ -96,7 +96,3 @@ curl -X POST 'https://itmo-bot-production.up.railway.app/api/request' \
 
 ---
 
-## TODO
-- [ ] Добавить больше эндпоинтов.
-- [ ] Улучшить обработку ошибок.
-- [ ] Настроить более подробное логирование.
