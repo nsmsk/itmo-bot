@@ -1,0 +1,12 @@
+
+aiologger[aiofiles]
+pip-chill
+gunicorn
+fastapi
+httpx
+pandas
+openai
+beautifulsoup4
+uvicorn
+pydantic
+python-dotenv

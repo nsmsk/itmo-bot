@@ -1,0 +1,12 @@
+2025-01-31 09:54:20 | INFO | Incoming request: GET http://localhost:8080/
+Request body: 
+2025-01-31 09:54:20 | INFO | Request completed: GET http://localhost:8080/
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.012s
+2025-01-31 09:54:21 | INFO | Incoming request: GET http://localhost:8080/favicon.ico
+Request body: 
+2025-01-31 09:54:21 | INFO | Request completed: GET http://localhost:8080/favicon.ico
+Status: 404
+Response body: {"detail":"Not Found"}
+Duration: 0.002s
